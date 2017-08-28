@@ -6,5 +6,5 @@ In this Project I want predict the worthiness of credit card customer
 2. Run Account.py
 3. Run Data.py
 
-### My model Accuracy
+### My Model Accuracy
 Gini – 0.306294322709
